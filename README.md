@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Chris
+- 👀 I work for Tiny Spark as a Senior Full Stack Web Developer
